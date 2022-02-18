@@ -9,7 +9,7 @@ Here's a brief rundown of each file in this repo. The queries we written for a P
 
 *SQL used: CTE, window, partition, row_number(), join*
 
-[01-first_purchase.sql](https://github.com/paceface/dvd-database-advanced-sql/blob/main/01-first_purchase.sql)
+[01-first_purchase.sql](01-first_purchase.sql)
 
 ## Customer Account Summary
 
@@ -21,4 +21,4 @@ Here's a brief rundown of each file in this repo. The queries we written for a P
 
 *SQL used: CTE, lag, window, partition, aggregate functions*
 
-[03-time_between_customer_purchases.sql
+[03-time_between_customer_purchases.sql](03-time_between_customer_purchases.sql)
