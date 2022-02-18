@@ -6,14 +6,19 @@ This will be more of a place for me to practice and document SQL than a portfoli
 Here's a brief rundown of each file in this repo. The queries we written for a Postgres environment.
 
 ## What was the first purchase made by each customer?
+
 *SQL used: CTE, window, partition, row_number(), join*
-01-first_purchase.sql
+
+[01-first_purchase.sql](https://github.com/paceface/dvd-database-advanced-sql/blob/main/01-first_purchase.sql)
 
 ## Customer Account Summary
-*SQL used: CTE, window, partition, row_number(), array_agg(), join*
-02-customer_account_summary.sql
 
+*SQL used: CTE, window, partition, row_number(), array_agg(), join*
+
+[02-customer_account_summary.sql](02-customer_account_summary.sql)
 
 ## What are the the minimum, maximum, and average time between customer purchases?
+
 *SQL used: CTE, lag, window, partition, aggregate functions*
-03-time_between_customer_purchases.sql
+
+[03-time_between_customer_purchases.sql
