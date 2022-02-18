@@ -1,7 +1,7 @@
 # DVD Rental Database - Advanced SQL queries
 In this project I am creating some reports using the Sakila Sample Database. It is a programmatically generate database for a fictitious DVD rental chain. The database is open source under the BSD License. The database can be downloaded at <https://www.postgresqltutorial.com/postgresql-sample-database/>.
 
-The queries we written for a Postgres environment.
+Here's a brief rundown of each file in this repo. The queries we written for a Postgres environment.
 
 ## What was the first purchase made by each customer?
 *SQL used: CTE, window, partition, row_number(), join*
@@ -10,5 +10,10 @@ The queries we written for a Postgres environment.
 ## Customer Account Summary
 *SQL used: CTE, window, partition, row_number(), array_agg(), join*
 02-customer_account_summary.sql
+
+
+## What are the the minimum, maximum, and average time between customer purchases?
+*SQL used: CTE, lag, window, partition, aggregate functions*
+03-time_between_customer_purchases.sql
 
 *work in progress*
