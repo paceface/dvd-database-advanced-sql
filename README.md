@@ -1,7 +1,7 @@
 # DVD Rental Database - Advanced SQL queries
-In this repo I am creating some reports using the Sakila Sample Database. It is a programmatically generate database for a fictitious DVD rental chain. The database is open source under the BSD License. The database can be downloaded at [here](https://www.postgresqltutorial.com/postgresql-sample-database/).
+In this repo I am creating some reports using the Sakila Sample Database. It is a programmatically generated database for a fictitious DVD rental chain. The database is open source under the BSD License. The database can be downloaded at [here](https://www.postgresqltutorial.com/postgresql-sample-database/).
 
-This will be more of a place for me to practice and document SQL than a portfolio project. I took a [Udemy course](https://www.udemy.com/course/advanced-applied-sql-for-business-intelligence-and-analytics/) where we used this dataset. The first files represent my work for that course, but I'll keep adding to it over time.
+This will be more of a place for me to practice and document SQL than it is a portfolio project. I took a [Udemy course](https://www.udemy.com/course/advanced-applied-sql-for-business-intelligence-and-analytics/) where we used this dataset. The first 11 files represent my work for that course, but I'll keep adding to it over time.
 
 SQL Skills Featured
 - CTE
