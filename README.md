@@ -5,7 +5,7 @@ This will be more of a place for me to practice and document SQL than it is a po
 
 SQL Skills Featured
 - CTE
-- Window Functions (lag, row_number, ntile,)
+- Window Functions (lag, row_number, ntile)
 - Partition
 - Join
 - Correlated subquery
